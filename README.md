@@ -50,7 +50,7 @@ data-science-portfolio/
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/tu-usuario/data-science-portfolio.git
+git clone https://github.com/marlettomateo-commits/data-science-portfolio.git
 cd data-science-portfolio
 ```
 
@@ -127,11 +127,7 @@ Este proyecto está bajo la licencia MIT. Ver el archivo [LICENSE](LICENSE) para
 
 ## 👤 Autor
 
-**Tu Nombre** — Estudiante de Ciencia de Datos e IA  
-📧 tu.email@ejemplo.com  
-💼 [LinkedIn](https://linkedin.com/in/tu-perfil)  
-🐙 [GitHub](https://github.com/tu-usuario)
-
----
-
-> ⭐ Si te sirvió este proyecto, ¡dale una estrella en GitHub!
+**Mateo Marletto ** — Estudiante de Ciencia de Datos e IA  
+📧 marlettomateo@icloud.com  
+💼 [LinkedIn](https://www.linkedin.com/in/mateo-marletto-251152400/)  
+🐙 [GitHub](https://github.com/marlettomateo-commits)
